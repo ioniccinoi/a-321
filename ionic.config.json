@@ -1,0 +1,8 @@
+{
+  "name": "A321",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2ece322e"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "A321",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
